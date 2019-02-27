@@ -5,7 +5,7 @@
                <title>И. Ф. Богданович "Душенька"</title>
             </titleStmt>
             <respStmt>
-			    <persName>Настя Желтова</persName>
+	       <persName>Настя Желтова</persName>
                <resp>Создание TEI документа, выделение в тексте мест и персоналий</resp>
             </respStmt>
          </fileDesc>
