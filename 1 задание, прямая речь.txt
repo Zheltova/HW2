@@ -25,7 +25,7 @@
                <title>А. А. Бестужев-Марлинский "Мулла-нур"</title>
             </titleStmt>
             <respStmt>
-			    <persName>Настя Желтова</persName>
+		<persName>Настя Желтова</persName>
                 <resp>Создание TEI документа, выделение в тексте прямой речи</resp>
             </respStmt>
          </fileDesc>
