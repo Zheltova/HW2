@@ -1,0 +1,40 @@
+<TEI> (1)
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+               <title>А. А. Бестужев-Марлинский "Мулла-нур"</title>
+            </titleStmt>
+            <respStmt>
+			    <persName>Настя Желтова</persName>
+                <resp>Создание TEI документа, выделение в тексте прямой речи</resp>
+            </respStmt>
+         </fileDesc>
+    </teiHeader>
+	<text><speech>
+	       <said type="direct" aloud="true">-Жарко, душно в Дербенте! Взойди-ка на кровлю, Касим; посмотри, как падает за горы солнышко: не краснеет ли запад, не сбираются ли тучи на небе?</said>
+		   <said type="direct" aloud="true">-Нет, ами (дядя)! Запад голубее глаз моей сестрицы. Солнце упало ярко, словно "золотой цвет" на ее груди. Ни один взор его не гаснет в тумане.</said>
+	</speech></text>
+</TEI>
+
+
+
+<TEI> (4)
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+               <title>А. А. Бестужев-Марлинский "Мулла-нур"</title>
+            </titleStmt>
+            <respStmt>
+			    <persName>Настя Желтова</persName>
+                <resp>Создание TEI документа, выделение в тексте прямой речи</resp>
+            </respStmt>
+         </fileDesc>
+    </teiHeader>
+	<text><speech>
+	       <said type="direct" who=undefined aloud="true">"А Искендер-бек?</said>
+		   <author_comment>- <speech_verb>сказал</speech_verb> кто-то в толпе.</author_comment>
+		   <said type="direct" who=all aloud="true">"В самом деле!</said>
+		   <author_comment>- <speech_verb>подхватили</speech_verb>многие голоса.</author_comment>
+		   <said type="direct" who=all aloud="true">"А Искендер-бек-то на что? Да как это мы его забыли, как пропустили розу между цветами, сокола между птицами? Аллах, аллах! Или у нас жар-то весь мозг из головы вытопил? Это странно! Это непостижимо! Это удивительно!</said>
+	</speech></text>
+</TEI>
