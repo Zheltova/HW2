@@ -13,7 +13,7 @@
              <particDesc>
 	             <listPerson type="bookish">
 	                 <person xml:id="ЛГ">
-	                     <persName>Лирический герой</persName>
+	                     <persName>я</persName>
 	                 <person>
 	                 <person xml:id="Душнк">
 	                     <persName>Душенька</persName>
@@ -30,13 +30,13 @@
     </teiHeader>
     <text>	  
 		Что, слабый будучи певец, 
-		Тебе дерзнул <person xml:id="ЛГ">я</person xml:id="ЛГ"> наконец
+		Тебе дерзнул <person xml:id="ЛГ"><persName>я</persName></person xml:id="ЛГ"> наконец
 		Подобиться, стихов отец!
 		Возможно ль изъявить достойно
 		Великолепие пиров
 		У царских греческих дворов,
 		О коих ты писал толь стройно?
-		<person xml:id="ЛГ">Я</person xml:id="ЛГ"> только лишь могу сказать,
+		<person xml:id="ЛГ"><persName>Я</persName></person xml:id="ЛГ"> только лишь могу сказать,
 		Что царь любил себя казать,
 		Иных хвалить, иных тазать,
 		Поесть, попить и после спать.
@@ -49,26 +49,26 @@
 		Но солнце в красоте своей,
 		Когда вселенну освещает,
 		Луну и звезды помрачает, —
-		Подобно так была <person xml:id="Душнк">меньшая</person xml:id="Душнк"> всех видней,
+		Подобно так была <person xml:id="Душнк"><persName>меньшая</persName></person xml:id="Душнк"> всех видней,
 		И старших сестр своих достоинства мрачила
 		И розы красоту, и белизну лилей,
-		И, словом, ничего в подобном виде <person xml:id="Душнк">ей</person xml:id="Душнк">
+		И, словом, ничего в подобном виде <person xml:id="Душнк"><persName>ей</persName></person xml:id="Душнк">
 		Природа никогда на свете не явила.
 		
 		Искать приличных слов
 		К тому, что в множестве веков
 		Блистало толь отменно,
 		Напрасно было бы, и было б дерзновенно
-		Короче <person xml:id="ЛГ">я</person xml:id="ЛГ"> скажу: <person xml:id="Душнк">меньшая царска дочь</person xml:id="Душнк">,
+		Короче <person xml:id="ЛГ"><persName>я</persName></person xml:id="ЛГ"> скажу: <person xml:id="Душнк"><persName>меньшая царска дочь</persName></person xml:id="Душнк">,
 		От коей многие вздыхали день и ночь,
-		У греков потому <person xml:id="Душнк">Психея</person xml:id="Душнк"> называлась,
+		У греков потому <person xml:id="Душнк"><persName>Психея</persName></person xml:id="Душнк"> называлась,
 		В языках же других, при переводе слов
-		Звалась <person xml:id="Душнк">она</person xml:id="Душнк">  <person xml:id="Душнк">Душа</person xml:id="Душнк">, по толку мудрецов,
+		Звалась <person xml:id="Душнк"><persName>она</persName></person xml:id="Душнк">  <person xml:id="Душнк"><persName>Душа</persName></person xml:id="Душнк">, по толку мудрецов,
 		А после в повестях старинных знатоков
-		У русских <persName>Душенька</persName> <person xml:id="Душнк">она</person xml:id="Душнк"> именовалась;
+		У русских <persName>Душенька</persName> <person xml:id="Душнк"><persName>она</persName></person xml:id="Душнк"> именовалась;
 		И пишут, что тогда
 		Изыскано не без труда
-		К <person xml:id="Душнк">ее</person xml:id="Душнк"> названию приличнейшее слово,
+		К <person xml:id="Душнк"><persName>ее</persName></person xml:id="Душнк"> названию приличнейшее слово,
 		Какое было ново.
 		Во славу <persName>Душеньке</persName> у нас от тех времен
 		Поставлено оно народом в лексиконе
@@ -85,23 +85,23 @@
 		Завистливых терзают дух.
 		Такая, <persName>Душенька</persName>, была твоя прослуга
 		Как весь цитерский мир и вся его округа
-		<person xml:id="Душнк">Тебя</person xml:id="Душнк"> особо обожали
-		И все к <person xml:id="Душнк">тебе</person xml:id="Душнк"> бежали
+		<person xml:id="Душнк"><persName>Тебя</persName></person xml:id="Душнк"> особо обожали
+		И все к <person xml:id="Душнк"><persName>тебе</persName></person xml:id="Душнк"> бежали
 		Твое умножить торжество.
-		Соперницы своей не знала <person xml:id="Душнк">ты</person xml:id="Душнк"> — печали!
+		Соперницы своей не знала <person xml:id="Душнк"><persName>ты</persName></person xml:id="Душнк"> — печали!
 		Веселий, смехов, игр собор,
 		Оставив прелести <persName>Венеры</persName>,
 		Бежит толпою из <placeName>Цитеры</placeName>.
-		<person xml:id="Внр">Богиня</person xml:id="Внр">, обтекая двор,
+		<person xml:id="Внр"><persName>Богиня</persName></person xml:id="Внр">, обтекая двор,
 		Куда ни обращает взор,
 		Не зрит ни жертв, ни фимиамов;
 		Жрецы тогда стада пасли,
 		И множество цитерских храмов
 		Травой и лесом поросли.
-		Сады <person xml:id="Внр">богини</person xml:id="Внр"> сиротели,
+		Сады <person xml:id="Внр"><persName>богини</persName></person xml:id="Внр"> сиротели,
 		И дом являл опальный вид,
 		Зефиры изредка свистели:
-		Казалось <person xml:id="Внр">ей</person xml:id="Внр">, свистели в стыд
+		Казалось <person xml:id="Внр"><persName>ей</persName></person xml:id="Внр">, свистели в стыд
 		Непостоянные амуры,
 		Из храма пролетая в храм.
 		К унылой пустоте — натуры
@@ -114,84 +114,84 @@
 		Куда текли небесны беги.
 		Оставших малое число,
 		Кряхтя под игом колесницы
-		Скучающей своей <person xml:id="Внр">царицы</person xml:id="Внр">,
+		Скучающей своей <person xml:id="Внр"><persName>царицы</persName></person xml:id="Внр">,
 		Везде уныние несло.
 		Не в долгом времени, по слухам
-		Узнала наконец <person xml:id="Внр">богиня красоты</person xml:id="Внр">,
+		Узнала наконец <person xml:id="Внр"><persName>богиня красоты</persName></person xml:id="Внр">,
 		Со гневом пребезмерным
-		Причину вкруг <person xml:id="Внр">себя</person xml:id="Внр"> и скук и пустоты.
+		Причину вкруг <person xml:id="Внр"><persName>себя</persName></person xml:id="Внр"> и скук и пустоты.
 		Хоть <persName>Душенька</persName> гневить не мыслила <persName>Венеру</persName>
 		К достоинствам богинь имела должну веру
 		И в поступи своей всегда хранила меру,
 		Но вскоре всем хулам подвержена была.
 		Притом злоречивые духи,
-		О <person xml:id="Душнк">ней</person xml:id="Душнк"> худые сея слухи,
-		Кривой давали толк на все <person xml:id="Душнк">ее</person xml:id="Душнк"> дела;
+		О <person xml:id="Душнк"><persName>ней</persName></person xml:id="Душнк"> худые сея слухи,
+		Кривой давали толк на все <person xml:id="Душнк"><persName>ее</persName></person xml:id="Душнк"> дела;
 		И кои милостей иль ждали, иль просили,
-		Во угождение <person xml:id="Внр">богине</person xml:id="Внр"> доносили,
-		Что будто <persName>Душенька</persName>, в досаду <person xml:id="Внр">ей</person xml:id="Внр"> и в зло
-		Присвоила <person xml:id="Душнк">себе</person xml:id="Душнк"> цитерских слуг число;
+		Во угождение <person xml:id="Внр"><persName>богине</persName></person xml:id="Внр"> доносили,
+		Что будто <persName>Душенька</persName>, в досаду <person xml:id="Внр"><persName>ей</persName></person xml:id="Внр"> и в зло
+		Присвоила <person xml:id="Душнк"><persName>себе</persName></person xml:id="Душнк"> цитерских слуг число;
 		И что кому угодно
 		В то время мог солгать на <persName>Душеньку</persName> свободно.
 		Но чтобы делом месть
-		Над <person xml:id="Душнк">нею</person xml:id="Душнк"> произвесть,
+		Над <person xml:id="Душнк"><persName>нею</persName></person xml:id="Душнк"> произвесть,
 		Собрав <persName>Венера</persName> ложь и всяку небылицу
 		Велела наскоро в дорожну колесницу
 		Шестнадцать почтовых зефиров заложить,
 		И наскоро летит <persName>Амура</persName> навестить.
 		Читатель сам себе представит то удобно,
-		Просила ли <person xml:id="Ам">его</person xml: id=Ам"> иль так, или подобно,
+		Просила ли <person xml:id="Ам"><persName>его</persName></person xml: id=Ам"> иль так, или подобно,
 		Пришед на <persName>Душеньку</persName> просить и доносить:
 		
 		«<persName>Амур</persName>, <persName>Амур</persName>! вступись за честь мою и славу,
 		Яви свой суд, яви управу.
-		<person xml:id="Ам">Ты</person xml:id="Ам"> знаешь <persName>Душеньку</persName>, иль мог о <person xml:id="Душнк">ней</person xml:id="Душнк"> слыхать:
-		<person xml:id="Душнк">Простая смертная</person xml:id="Душнк">, ругаяся богами,
-		Не ставит ни во что твою <person xml: id="Внр">бессмертну мать</person xml: id="Внр">:
+		<person xml:id="Ам"><persName>Ты</persName></person xml:id="Ам"> знаешь <persName>Душеньку</persName>, иль мог о <person xml:id="Душнк"><persName>ней</persName></person xml:id="Душнк"> слыхать:
+		<person xml:id="Душнк"><persName>Простая смертная</persName></person xml:id="Душнк">, ругаяся богами,
+		Не ставит ни во что твою <person xml: id="Внр"><persName>бессмертну мать</persName></person xml: id="Внр">:
 		Уже и нашими слугами
 		Осмелилась повелевать
-		А в областях моих над <person xml:id="Внр">мной</person xml:id="Внр"> торжествовать;
-		Могу ли <person xml:id="Внр">я</person xml:id="Внр"> сносить и видеть равнодушно,
+		А в областях моих над <person xml:id="Внр"><persName>мной</persName></person xml:id="Внр"> торжествовать;
+		Могу ли <person xml:id="Внр"><persName>я</persName></person xml:id="Внр"> сносить и видеть равнодушно,
 		Что <persName>Душеньке</persName> одной везде и все послушно!
-		За <person xml:id="Душнк">ней</person xml:id="Душнк"> гоняяся, от нас отходят прочь
+		За <person xml:id="Душнк"><persName>ней</persName></person xml:id="Душнк"> гоняяся, от нас отходят прочь
 		Поклонники, друзья, амуры и зефиры,
 		И скоро <persName>Душеньке</persName> послушны будут миры.
-		<persName>Юпитер</persName> сам по <person xml:id="Душнк">ней</person xml:id="Душнк"> вздыхает день и ночь,
-		И слышно, что берет себе <person xml:id="Душнк">ее</person xml:id="Душнк"> в супруги,
-		<person xml:id="Душнк">Гречанку наглую</person xml:id="Душнк">, едва ли <person xml:id="Душнк">царску дочь</person xml:id="Душнк">,
+		<persName>Юпитер</persName> сам по <person xml:id="Душнк"><persName>ней</persName></person xml:id="Душнк"> вздыхает день и ночь,
+		И слышно, что берет себе <person xml:id="Душнк"><persName>ее</persName></person xml:id="Душнк"> в супруги,
+		<person xml:id="Душнк"><persName>Гречанку наглую</persName></person xml:id="Душнк">, едва ли <person xml:id="Душнк"><persName>царску дочь</persName></person xml:id="Душнк">,
 		Забыв <persName>Юнонины</persName> и верность и услуги!
-		Каков <person xml:id="Ам">ты</person xml:id="Ам"> будешь бог и где твой будет трон,
+		Каков <person xml:id="Ам"><persName>ты</persName></person xml:id="Ам"> будешь бог и где твой будет трон,
 		Когда от них другой родится <persName>Купидон</persName>,
-		Который у <person xml:id="Ам">тебя</person xml:id="Ам"> отымет лук и стрелы
+		Который у <person xml:id="Ам"><persName>тебя</persName></person xml:id="Ам"> отымет лук и стрелы
 		И нагло покорит подвластны нам пределы?
-		<person xml:id="Ам">Ты</person xml:id="Ам"> знаешь, сколь сыны Юпитеровы смелы:
+		<person xml:id="Ам"><persName>Ты</persName></person xml:id="Ам"> знаешь, сколь сыны Юпитеровы смелы:
 		По воле ходят в небеса
 		И всякие творят на свете чудеса.
-		И можно ли терпеть, что <persName>Душенька</persName> <person xml:id="Душнк">собою</person xml:id="Душнк">,
+		И можно ли терпеть, что <persName>Душенька</persName> <person xml:id="Душнк"><persName>собою</persName></person xml:id="Душнк">,
 		Без помощи твоей, во всех вселяет страсть,
-		Какую возжигать один имел <person xml:id="Ам">ты</person xml:id="Ам"> власть?
-		<person xml:id="Душнк">Она</person xml:id="Душнк"> давно уже смеется над <person xml:id="Ам">тобою</person xml:id="Ам">
-		И ставит в торжество <person xml:id="Душнк">себе</person xml:id="Душнк"> мою напасть.
+		Какую возжигать один имел <person xml:id="Ам"><persName>ты</persName></person xml:id="Ам"> власть?
+		<person xml:id="Душнк"><persName>Она</persName></person xml:id="Душнк"> давно уже смеется над <person xml:id="Ам"><persName>тобою</persName></person xml:id="Ам">
+		И ставит в торжество <person xml:id="Душнк"><persName>себе</persName></person xml:id="Душнк"> мою напасть.
 		За честь свою, за честь <persName>Венеры</persName>
-		Яви <person xml:id="Ам">ты</person xml:id="Ам"> строгости примеры;
+		Яви <person xml:id="Ам"><persName>ты</persName></person xml:id="Ам"> строгости примеры;
 		Соделай <persName>Душеньку</persName> постылою навек,
 		И столь худою,
 		И столь дурною,
-		Чтоб каждый от <person xml:id="Душнк">нее</person xml:id="Душнк"> чуждался человек;
-		Иль дай <person xml:id="Ам">ты</person xml:id="Ам"> <person xml:id="Душнк">ей</person xml:id="Душнк"> в мужья, кто б всех сыскался хуже,
-		Чтобы нашла <person xml:id="Душнк">она</person xml:id="Душнк"> <person xml:id="Душнк">себе</person xml:id="Душнк"> тирана в муже
-		И мучила б <person xml:id="Душнк">себя</person xml:id="Душнк">,
+		Чтоб каждый от <person xml:id="Душнк"><persName>нее</persName></person xml:id="Душнк"> чуждался человек;
+		Иль дай <person xml:id="Ам"><persName>ты</persName></person xml:id="Ам"> <person xml:id="Душнк"><persName>ей</persName></person xml:id="Душнк"> в мужья, кто б всех сыскался хуже,
+		Чтобы нашла <person xml:id="Душнк"><persName>она</persName></person xml:id="Душнк"> <person xml:id="Душнк"><persName>себе</persName></person xml:id="Душнк"> тирана в муже
+		И мучила б <person xml:id="Душнк"><persName>себя</persName></person xml:id="Душнк">,
 		Жестокого любя;
-		Чтоб тем краса <person xml:id="Душнк">ее</person xml:id="Душнк"> увяла,
-		И чтобы <person xml:id="Внр">я</person xml:id="Внр"> покойна стала».
+		Чтоб тем краса <person xml:id="Душнк"><persName>ее</persName></person xml:id="Душнк"> увяла,
+		И чтобы <person xml:id="Внр"><persName>я</persName></person xml:id="Внр"> покойна стала».
 		
 		<persName>Амур</persName> желал тогда пресечь
 		Сию просительную речь.
-		Хотя богинь <person xml:id="Ам">он</person xml:id="Ам"> ведал свойство
+		Хотя богинь <person xml:id="Ам"><persName>он</persName></person xml:id="Ам"> ведал свойство
 		Всегда соперниц клеветать,
 		Но должен был привесть в спокойство
-		Свою прогневанную <person xml:id="Внр">мать</person xml:id="Внр">
-		И <person xml:id="Внр">ей</person xml:id="Внр"> впоследок обещать
+		Свою прогневанную <person xml:id="Внр"><persName>мать</persName></person xml:id="Внр">
+		И <person xml:id="Внр"><persName>ей</persName></person xml:id="Внр"> впоследок обещать
 		За дерзость <persName>Душеньку</persName> порядком постращать.
 		Услышав те слова, амуры ужаснулись
 		Весельи ахнули и смехи содрогнулись
@@ -200,25 +200,25 @@
 		С улыбкою на всех кидая взор приятно,
 		Сама рядила путь во остров свой обратно
 		И для отличности такого торжества
-		Явила тут <person xml:id="Внр">себя</person xml:id="Внр"> во славе божества.
+		Явила тут <person xml:id="Внр"><persName>себя</persName></person xml:id="Внр"> во славе божества.
 		Отставлена была воздушна колесница,
 		Которую везла крылатая станица,
 		С прохладным роздыхом, порозжую назад.
-		<person xml:id="Внр">Богиня</person xml:id="Внр">, учредив старинный свой парад
+		<person xml:id="Внр"><persName>Богиня</persName></person xml:id="Внр">, учредив старинный свой парад
 		И в раковину сев, как пишут на картинах,
 		Пустилась по водам на двух больших дельфинах.
 		<persName>Амур</persName>, простря свой властный взор,
 		Подвигнул весь Нептунов двор.
 		Узря <persName>Венеру</persName>, резвы волны
-		Текут за <person xml:id="Внр">ней</person xml:id="Внр">, весельем полны.
+		Текут за <person xml:id="Внр"><persName>ней</persName></person xml:id="Внр">, весельем полны.
 		Тритонов водяной народ
-		Выходит к <person xml:id="Внр">ней</person xml:id="Внр"> из бездны вод;
-		Иной вокруг <person xml:id="Внр">нее</person xml:id="Внр"> ныряет
+		Выходит к <person xml:id="Внр"><persName>ней</persName></person xml:id="Внр"> из бездны вод;
+		Иной вокруг <person xml:id="Внр"><persName>нее</persName></person xml:id="Внр"> ныряет
 		И дерзки волны усмиряет;
 		Другой, крутясь во глубине,
 		Сбирает жемчуги на дне
 		И все сокровища из моря
-		Тащит повергнуть <person xml:id="Внр">ей</person xml:id="Внр"> к стопам.
+		Тащит повергнуть <person xml:id="Внр"><persName>ей</persName></person xml:id="Внр"> к стопам.
 		Иной, с чудовищами споря,
 		Претит касаться сим местам;
 		Другой, на козлы сев проворно,
@@ -234,10 +234,10 @@
 		И, чтобы всяк то ведать мог,
 		В коралльный громко трубит рог;
 		Другой, из краев самых дальных,
-		Успев приплыть к <person xml:id="Внр">богине сей</person xml:id="Внр">,
+		Успев приплыть к <person xml:id="Внр"><persName>богине сей</persName></person xml:id="Внр">,
 		Несет обломок гор хрустальных
-		Наместо зеркала при <person xml:id="Внр">ней</person xml:id="Внр">.
-		<person xml:id="Душнк">Сей</person xml:id="Душнк"> вид приятность обновляет
-		И радость на <person xml:id="Внр">ее</person xml:id="Внр"> челе.
+		Наместо зеркала при <person xml:id="Внр"><persName>ней</persName></person xml:id="Внр">.
+		<person xml:id="Душнк"><persName>Сей</persName></person xml:id="Душнк"> вид приятность обновляет
+		И радость на <person xml:id="Внр"><persName>ее</persName></person xml:id="Внр"> челе.
 	</text>
 </TEI>
